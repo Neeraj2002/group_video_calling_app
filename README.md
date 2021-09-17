@@ -16,5 +16,10 @@ React
 
 JavaSript
 
+## Preview
+
+![Preview Image 1](Screenshot (287).png)
+![Preview Image 2](Screenshot 2021-09-17 124752.png)
+
 
 
